@@ -4,10 +4,10 @@ import androidx.room.Entity
 import androidx.room.PrimaryKey
 
 
-@Entity()
+@Entity(tableName = "tbl_todo")
 data class Todo (
     @PrimaryKey(autoGenerate = true)
-    val num: Int = 0,
-    val title: String,
-    val completed: Boolean
+    val num:Int = 0,
+    val title: String ,
+    val completed: Boolean = false
 )

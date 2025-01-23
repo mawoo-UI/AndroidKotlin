@@ -1,4 +1,4 @@
-package shop.youngatae.mytodo
+package cokr.oneweeks.Mytodo2
 
 import org.junit.Test
 
