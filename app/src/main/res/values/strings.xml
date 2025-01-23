@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Web Navigator</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="naver">네이버</string>
+    <string name="git">깃허브</string>
+    <string name="chill_guy">chill</string>
+    <string name="tost">토스트</string>
+</resources>

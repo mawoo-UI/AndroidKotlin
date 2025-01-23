@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/naver"
+        android:icon="@drawable/naver"
+        android:title="@string/naver" />
+
+    <item
+        android:id="@+id/git"
+        android:icon="@drawable/git"
+        android:title="@string/git" />
+    <item
+        android:id="@+id/chill_guy"
+        android:icon="@drawable/chill_guy"
+        android:title="@string/chill_guy" />
+
+
+</menu>
